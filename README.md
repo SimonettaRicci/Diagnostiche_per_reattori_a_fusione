@@ -1,4 +1,3 @@
-# Diagnostiche_per_reattori_a_fusione
 # Modes Tracking Algorithms using Internal Discrete Coils (IDC)
 
 **Sviluppato da:** Crescenzi Andrea, Ricci Simonetta, Vinci Alessio  
