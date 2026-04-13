@@ -55,7 +55,7 @@ Il codice è organizzato in moduli funzionali:
 - `Stime_Matriciale_IDC` → stima geometrica
 - `Stime_NN_IDC` → inferenza tramite rete neurale
 
-- ![schemaCodice](images/schemaCodice.png)
+- ![schemaCodice](images/schemaCodice.jpg)
 
 
 ---
